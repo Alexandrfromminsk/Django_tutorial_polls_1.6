@@ -1,0 +1,8 @@
+li a {
+    color: green;
+    font-weight:bold;
+}
+
+body {
+    background: white url("images/background.gif")  right bottom;
+}
